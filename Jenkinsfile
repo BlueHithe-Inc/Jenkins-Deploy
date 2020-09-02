@@ -34,3 +34,4 @@ Build Status
 Landmark Technology
 + 1 437 215 2483\'\'\', recipientProviders: [developers()], subject: \'Build status\', to: \'legah2000@gmail.com\'''', recipientProviders: [developers()], subject: 'Build', to: 'legah2002@gmail.com'   
     }
+}
